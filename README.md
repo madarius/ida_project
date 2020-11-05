@@ -1,8 +1,9 @@
 # ida_project
 Project for Intro to Data Analytics course: Analysis of Netflix TV Shows and Movies
-The aim of this project is to analyse available content on Netflix. This analysis includes: 
-1. The analysis of available content types and their distribution through the years
-2. The analysis of content creators and actors, participated in the show
-3. The analysis of where content is created
-4. The analysis of most popular genres
-5. The analysis of when content is created 
+The aim of this project is to analyse available content on Netflix. 
+This analysis includes: 
+1. Find out is the Netflix focusing on TV shows rather that on movies and the change of tendency.
+2. Find out which countries produce the highest number of content
+3. Analyze the rating distribution among Netflix TV shows and movies
+4. Analyze the most popular genres among TV shows and movies
+5. Analyze when Netflix produces most content
