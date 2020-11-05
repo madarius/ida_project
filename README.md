@@ -7,3 +7,5 @@ This analysis includes:
 3. Analyze the rating distribution among Netflix TV shows and movies
 4. Analyze the most popular genres among TV shows and movies
 5. Analyze when Netflix produces most content
+
+Original dataset was taken from Kaggle: https://www.kaggle.com/shivamb/netflix-shows
