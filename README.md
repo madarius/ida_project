@@ -1,5 +1,5 @@
 # ida_project
-Project for Intro to Data Analytics course: Analysis of Netflix TV Shows and Movies
+Project for analysis of Netflix TV Shows and Movies
 The aim of this project is to analyse available content on Netflix. 
 This analysis includes: 
 1. Find out is the Netflix focusing on TV shows rather that on movies and the change of tendency.
